@@ -1,4 +1,4 @@
 # interaction2project01
 GitHub test for Interaction 2
 
-this is so awesome 
+For project one, I decided to express the irregular patterns that humans experience with permanant decisions. Specifically focused on tattoos. The variety of intervals are intended to convey the intermittent patterns that people undergo. 
